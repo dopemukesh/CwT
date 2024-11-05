@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    scrollbar-width: none;
+    font-family: 'poppins';
+}
+
+html,
+body {
+    height: 100%;
+    scroll-behavior: smooth;
+    /* Smooth scrolling effect */
+}
+
+
+
+@layer components {
+    .card {
+        @apply bg-gradient-to-b from-white to-yellow-50;
+    }
+
+    .tag {
+        @apply relative overflow-hidden py-1 px-4 w-fit text-[12px] font-semibold cursor-pointer text-blue-500 rounded-full bg-blue-500/10 hover:bg-blue-500/30
+    }
+
+    .tagGr {
+        @apply relative overflow-hidden py-1 px-4 w-fit text-[12px] font-semibold cursor-pointer text-[#4ACF98] border border-[#4ACF98] rounded-full bg-[#24A06E]/20 hover:bg-[#24A06E]/30
+    }
+
+    .btn-primary {
+        @apply py-2 px-4 my-4 bg-blue-500 text-white text-sm rounded-lg hover:bg-blue-400 flex items-center w-fit h-fit
+    }
+
+
+    .btn-green {
+        @apply flex items-center justify-center bg-gradient-to-r from-emerald-400 to-emerald-600 hover:bg-gradient-to-l rounded-md text-slate-100 cursor-pointer border-[2px] border-emerald-400;
+    }
+
+    .btn-red {
+        @apply flex items-center justify-center bg-gradient-to-r from-rose-400 to-rose-600 hover:bg-gradient-to-l rounded-md text-slate-100 cursor-pointer border-[2px] border-rose-400;
+    }
+
+    .btn-yellow {
+        @apply flex items-center justify-center bg-gradient-to-r from-yellow-400 to-yellow-600 hover:bg-gradient-to-l rounded-md text-slate-100 cursor-pointer border-[2px] border-yellow-400;
+    }
+
+
+    .green-tag, .success {
+        @apply text-[10px] leading-4 text-[#0CC093] bg-[#0CC093]/20 py-1 px-2 w-fit rounded font-medium
+    }
+
+    .red-tag, .danger {
+        @apply text-[10px] leading-4 text-rose-500 bg-rose-500/20 py-1 px-2 w-fit rounded font-medium
+    }
+
+    .yellow-tag, .warning {
+        @apply text-[10px] leading-4 text-yellow-500 bg-yellow-500/20 py-1 px-2 w-fit rounded font-medium
+    }
+}

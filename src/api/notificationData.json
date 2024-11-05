@@ -1,0 +1,23 @@
+[
+    {
+        "notifStatus": "Update !",
+        "notifTitle": "Announcement related",
+        "notifDesc": "We have just published a new blog post on JavaScript closures! This concept is essential for mastering advanced JavaScript. Check it out now.We have just published a new blog post on JavaScript closures! This concept is essential for mastering advanced JavaScript. Check it out now.",
+        "notifDate": "October 12, 2024",
+        "status": "warning"
+    },
+    {
+        "notifStatus": "Announcement",
+        "notifTitle": "Major hiring in google",
+        "notifDesc": "We have just published a new blog post on JavaScript closures! We have just published a new blog post on JavaScript closures! This concept is essential for mastering advanced JavaScript. Check it out now.",
+        "notifDate": "October 07, 2024",
+        "status": "success"
+    },
+    {
+        "notifStatus": "New Update",
+        "notifTitle": "Hiring in CWT",
+        "notifDesc": "This concept is essential for mastering advanced JavaScript. Check it out now.",
+        "notifDate": "October 02, 2024",
+        "status": "danger"
+    }
+]

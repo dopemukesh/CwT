@@ -1,0 +1,15 @@
+[
+    { "id": "VTJA", "name": "Vivek Thakur", "dob": "07/07/1996", "address": "Jaipur" },
+    { "id": "KSLU", "name": "Kajal Soni", "dob": "25/12/2002", "address": "Lucknow" },
+    { "id": "RMMU", "name": "Rohit Mehta", "dob": "29/04/2005", "address": "Mumbai" },
+    { "id": "NRPU", "name": "Neha Rathore", "dob": "18/08/1997", "address": "Pune" },
+    { "id": "SGVA", "name": "Sneha Gupta", "dob": "10/11/2003", "address": "Varanasi" },
+    { "id": "PSKO", "name": "Pooja Singh", "dob": "15/05/2000", "address": "Kolkata" },
+    { "id": "VPKA", "name": "Vikas Patel", "dob": "09/10/2001", "address": "Kanpur" },
+    { "id": "VPKO", "name": "Vikas Patel", "dob": "18/08/1997", "address": "Kolkata" },
+    { "id": "AKPU", "name": "Ankit Kumar", "dob": "10/11/2003", "address": "Pune" },
+    { "id": "VPAG", "name": "Vikas Patel", "dob": "29/04/2005", "address": "Agra" },
+    { "id": "RYJA", "name": "Rajesh Yadav", "dob": "10/11/2003", "address": "Jaipur" },
+    { "id": "NRHY", "name": "Neha Rathore", "dob": "09/10/2001", "address": "Hyderabad" }
+  ]
+  

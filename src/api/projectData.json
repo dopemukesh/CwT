@@ -1,0 +1,65 @@
+[
+    {
+        "memberName": "Mukesh Yadav",
+        "memberImage": "/images/mukesh-yadav-pic.webp",
+        "memberTag": "CONTRIBUTOR",
+        "projName": "CodeTrack Platform",
+        "projDescription": "CodeTrack helps developers monitor their coding progress and improve their skills.",
+        "projLink": "codetrack.com",
+        "repoLink": "/members"
+    },
+    {
+        "memberName": "Shaurya",
+        "memberImage": "/images/shaurya-pic.png",
+        "memberTag": "OWNER",
+        "projName": "CodeMate Learning Hub",
+        "projDescription": "CodeMate offers curated coding resources and tutorials for mastering programming languages.",
+        "projLink": "codematehub.com",
+        "repoLink": "/members"
+    },
+    {
+        "memberName": "Ayush Tiwari",
+        "memberImage": "/images/cwtyelow-light-logo.svg",
+        "memberTag": "PARTNER",
+        "projName": "CodeVision Project",
+        "projDescription": "CodeVision provides interactive tools for visualizing complex coding concepts and structures.",
+        "projLink": "codevision.io",
+        "repoLink": "/members"
+    },
+    {
+        "memberName": "Adarsh Dhiman",
+        "memberImage": "/images/cwtyelow-light-logo.svg",
+        "memberTag": "PARTNER",
+        "projName": "CodeForge Academy",
+        "projDescription": "CodeForge offers projects and tutorials for all levels of coding learners.",
+        "projLink": "codeforgeacademy.com",
+        "repoLink": "/members"
+    },
+    {
+        "memberName": "Ankit",
+        "memberImage": "/images/cwtyelow-light-logo.svg",
+        "memberTag": "CONTRIBUTOR",
+        "projName": "AlgoQuest",
+        "projDescription": "AlgoQuest focuses on teaching algorithm design and coding problem-solving skills.",
+        "projLink": "algoquest.com",
+        "repoLink": "/members"
+    },
+    {
+        "memberName": "Wadhvani",
+        "memberImage": "/images/cwtyelow-light-logo.svg",
+        "memberTag": "CONTRIBUTOR",
+        "projName": "TechTrove",
+        "projDescription": "TechTrove shares coding tutorials, challenges, and tips from tech experts and contributors.",
+        "projLink": "techtrove.io",
+        "repoLink": "/members"
+    },
+    {
+        "memberName": "Shaurya",
+        "memberImage": "/images/cwtyelow-light-logo.svg",
+        "memberTag": "OWNER",
+        "projName": "CodeBase Community",
+        "projDescription": "CodeBase connects developers to collaborate on open-source coding projects.",
+        "projLink": "codebasecommunity.com",
+        "repoLink": "/members"
+    }
+]
