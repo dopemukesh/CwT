@@ -4,7 +4,7 @@ export default {
   content: [
     './src/**/*.{js,jsx,ts,tsx}',  // This should include all your React components
     './public/index.html',          // Include HTML files as well
-    ' /index.html',          // Include HTML files as well
+    'index.html',          // Include HTML files as well
     './src/**/*.json',
   ],
   theme: {
